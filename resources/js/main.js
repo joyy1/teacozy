@@ -1,7 +1,15 @@
 
 
-$(document).ready(function() {
-  $("button").on("click", function{
-  $(".mobile").toggle();
+$(document).ready(function(){
+
+  $(".btn").on("click", function(){
+  $("span").toggle();
+
+
+
+
+})
+
+
 
 })
